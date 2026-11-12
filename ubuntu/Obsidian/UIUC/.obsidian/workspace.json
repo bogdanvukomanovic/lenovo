@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "bba313a545a8fad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62c1dbdcec68033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c314c6af55c80e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Crowd Research - Open and Scalable University Laboratories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e63c8fa83e28c9d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8577d872fbc214b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47607c708db34bac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "252d9efb292a0237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e662ef78827eebb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "829a1d9325ed4ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14be9075c835119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e995316d0b866f71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/Crowd Research - Open and Scalable University Laboratories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbe83bcb23b91595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Papers/Crowd Research - Open and Scalable University Laboratories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5c99697987b4b08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "758f916a81d50551",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Papers/Crowd Research - Open and Scalable University Laboratories.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3c314c6af55c80e",
+  "lastOpenFiles": [
+    "Meetings/26.05.2024..md",
+    "Papers/Crowd Research - Open and Scalable University Laboratories.md",
+    "Meetings",
+    "?.md",
+    "Untitled 1.md",
+    "Papers",
+    "Welcome.md"
+  ]
+}

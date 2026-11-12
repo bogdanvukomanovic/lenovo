@@ -1,0 +1,21 @@
+- [[Bytecode]]
+- [[Java Virtual Machine (JVM)]]
+- [[Java Runtime Environment (JRE)]]
+- [[HotSpot technology]]
+- [[Just-In-Time (JIT) compiler]]
+- [[jlink]]
+- [[jpackage]]
+- [[Servlet]]
+- [[Garbage collection]]
+- [[Exception]]
+- [[Exception handling]]
+- [[Compile-time error]]
+- [[Run-time error]]
+- [[Remote method invocation (RMI)]]
+
+Deprecated
+
+- [[Java Applet]]
+- [[Java Browser plug-in]]
+- [[Java Web Start]]
+- [[Ahead-Of-Time (AOT) compiler]]

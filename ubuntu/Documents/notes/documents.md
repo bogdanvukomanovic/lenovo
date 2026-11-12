@@ -1,0 +1,11 @@
+- [X] Passport scan
+- [X] Identity card scan
+- [ ] Diploma of Education scan
+- [X] Personal bank account number scan
+- [X] LBO number of health card
+- [X] US visa scan (if you have or had any)
+- [X] Mobile phone number
+- [X] Your Slava Day (date), if you celebrate any in your family
+- [X] Beograd Plus Zone in Belgrade (address if it is different in ID)
+- [ ] A confirmation issued by the Central Registry of compulsory social insurance (send an email with a read ID card in an attachment to this email address: info@croso.rs and ask for a historical overview of compulsory social insurance)
+- [ ] Please read the attached documents regarding Information on Personal Data Processing and Information on Specific Personal Data Processing, where you should provide us with a scanned, signed version in this thread and bring the originals to the signing session.
